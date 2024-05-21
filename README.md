@@ -56,15 +56,6 @@ March 2024-Present
 
 
 
-##Awards
-2008-Present
-
-
--Math Field Competition (2nd place)
-
--JV Tennis
-
--Junior National Honors Society
 
 
 
