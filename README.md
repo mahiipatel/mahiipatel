@@ -16,6 +16,10 @@ Grand Blanc, MI
  
  -Do the jobs the manager is not able to do and assist her
 
+
+
+
+
 ##Student
 **Grand Blanc Highschool, Grand Blanc**
 August 2023-Present
@@ -30,6 +34,10 @@ August 2023-Present
 
 -Try to do activities and classes which will allow me to get into University of Michigan
 
+
+
+
+
 ##Tennis Player
 **Grand Blanc Highschool**
 March 2024-Present
@@ -42,6 +50,10 @@ March 2024-Present
 -Working to hit every serves and low serves
 
 -Using teamwork to gain a win, yet being friendly
+
+
+
+
 
 ##Awards
 2008-Present
