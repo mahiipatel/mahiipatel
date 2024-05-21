@@ -1,7 +1,5 @@
 # Mahi J. Patel
 
-Grand Blanc, MI
-
 734-620-4261
 
 [mahijpatel17@gmail.com]
