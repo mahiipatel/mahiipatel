@@ -1,7 +1,11 @@
 # Mahi Patel - Resume
+
 Email:
+  
   Personal - [mahijpatel17@gmail.com](mailto:mahijpatel17@gbstu.org)
+  
   School - [mahijpatel53@gbstu.org](mailto:mahijpatel53@gbstu.org)
+
 Cell: (734)-620-4261
 
 ## Experience
