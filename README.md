@@ -8,6 +8,9 @@ Email:
 
 Cell: (734)-620-4261
 
+## Introdcution
+- Hi My name is Mahi Patel, i'm currently enrolled as a freshman at Grand Blanc. My goal is to maintain a GPA above 4.0 and work in order to pursure my goal, an Orthodontist.
+
 ## Experience
 
 ### Education
@@ -34,7 +37,10 @@ Cell: (734)-620-4261
 - 2nd Place Leapfrog Winner
 - Academic Acheivement (3.75 GPA & Higher)
 
-
+### Technical Skills
+- Makecode
+- Data analysis and management
+  
 
 
 
