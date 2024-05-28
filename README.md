@@ -10,8 +10,6 @@
 
 Email:
   
-  Personal - [mahijpatel17@gmail.com](mailto:mahijpatel17@gbstu.org)
-  
   School - [mahijpatel53@gbstu.org](mailto:mahijpatel53@gbstu.org)
 
 Cell: (734)-620-4261
@@ -50,7 +48,21 @@ Cell: (734)-620-4261
 - Data analysis and management
 
 
+<p align='center'> 
 
+   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api?username=mahiipatel&show_icons=true&count_private=true"/> 
+
+   </a> 
+
+   <a href="https://github.com/mahiipatel/github-readme-stats"> 
+
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiipatel&layout=compact"/> 
+
+   </a> 
+
+</p> 
 
 <!---
 mahiipatel/mahiipatel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
