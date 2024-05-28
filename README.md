@@ -50,7 +50,7 @@ Cell: (734)-620-4261
 
 <p align='center'> 
 
-   <a href="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true"> 
+   <a href="https://github-readme-stats.vercel.app/api?username=mahiipatel&show_icons=true&count_private=true"> 
 
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=mahiipatel&show_icons=true&count_private=true"/> 
 
