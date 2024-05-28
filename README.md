@@ -50,17 +50,12 @@ Cell: (734)-620-4261
 
 <p align='center'> 
 
-   <a href="https://github-readme-stats.vercel.app/api?username=mahiipatel&show_icons=true&count_private=true"> 
-
-       <img height=150 src="https://github-readme-stats.vercel.app/api?username=mahiipatel&show_icons=true&count_private=true"/> 
-
-   </a> 
-
-   <a href="https://github.com/mahiipatel/github-readme-stats"> 
-
-       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiipatel&layout=compact"/> 
-
-   </a> 
+<a href="https://github-readme-stats.vercel.app/api?username=mahiipatel&show_icons=true&count_private=true"> 
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=mahiipatel&show_icons=true&count_private=true"/> 
+</a> 
+<a href="https://github.com/mahiipatel/github-readme-stats"> 
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiipatel&layout=compact"/> 
+</a> 
 
 </p> 
 
